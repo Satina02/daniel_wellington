@@ -1,0 +1,97 @@
+    .footer{
+    position: relative;
+    height: 100%;
+    -webkit-box-align: center;
+    align-items: center;
+    top: 30px;
+}
+
+
+.some-div{
+    top: 35px;
+    left: 300px;
+    position: absolute;
+    min-height: 20rem;
+    padding: 3rem;
+    width: 100%;
+    max-width: 45rem;
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: rgb(0 0 0 / 25%) 0px 0px 28px 0px;
+}
+
+.some-div span{
+    font-size: 26px;
+    line-height: 31.2px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.second-div{
+    background: rgba(255, 255, 255, 0.9);
+    box-shadow: rgb(0 0 0 / 25%) 0px 0px 28px 0px;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: relative;
+    padding: 1rem 0px;
+    width: 100%;
+    max-width: 45rem;
+    margin: 2rem auto 0px;
+    top: 350px;
+    position: absolute;
+    left: 300px
+}
+
+.tag-a{
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 3.6rem;
+    height: 3.6rem;
+    margin: 0px 0.6rem;
+    padding: 0px;
+    border: 0px;
+    border-radius: 2rem;
+    color: rgb(0, 8, 28);
+    background: white;
+    transition: transform 0.2s ease 0s;
+    text-decoration: none;
+    cursor: pointer
+}
+
+.text-widjet{
+    background: rgb(244, 244, 244);
+    color: rgb(0, 8, 28);
+    text-align: center;
+    overflow: auto;
+    padding: 4rem 3rem
+}
+
+.main-text{
+    max-width: 90rem;
+    margin: auto;
+}
+
+.daniel{
+    font-size: 26px;
+    line-height: 31.2px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-family: DWFutura, sans-serif;
+    font-weight: normal
+}
+
+.p-text{
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.18px;
+    font-family: DWCaslon, serif;
+    font-weight: normal;
+}
+
+.futer{
+
+}

@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "model": "ICONIC LINK ARCTIC",
+      "description": "The Iconic Link Arctic features a dark blue sunray dial. A color that symbolizes the sky, ocean, serenity, and calmness. Crafted with polished stainless steel, available with a vibrant silver finish. A classic timepiece that gives your look a unique touch.",
+      "price": "US$289",
+      "image1": "https://www.danielwellington.com/product-images/DW00100448_Iconic_Li-m5oeO0v9.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/DW00100458_Iconic_Li-VedjfYok.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "video": "gg",
+      "id": 9
+    },
+    {
+      "model": "QUADRO PRESSED MELROSE",
+      "description": "The Quadro is our first square dial timepiece. Crafted with polished stainless steel and available in a refined rose gold plating or vibrant silver finish. Choose between the option of a white, black, or green patterned dial and a selection of pressed mesh or pressed leather straps. Elevate your look with a unique edge.",
+      "price": "US$189",
+      "image1": "https://www.danielwellington.com/product-images/dw00100431_quadro_20-t31EMkRl.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/_itsjustinesjournal_-eslk2sHL.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "video": "vv",
+      "id": 10
+    },
+    {
+      "model": "PETITE EVERGOLD",
+      "description": "The Petite Evergold 28 is our latest addition to the Petite Collection. Featuring an eggshell white dial and our classic mesh strap in a light shade of gold. Elevate your look with a delicate pop of gold that seamlessly matches any outfit.",
+      "price": "US$169",
+      "image1": "https://www.danielwellington.com/product-images/dw00100350_petite_28-quprxV6E.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/DW00100474_Petite_Un-ybb9t5Ql.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "video": "kk",
+      "id": 11
+    },
+    {
+      "model": "CLASSIC YORK",
+      "description": "Classic York is an elegant watch that exudes confidence and style. With a timeless dark brown croc embossed leather strap, a sophisticated black dial and a thin case of just 6mm, this is a watch to love for years to come.",
+      "price": "US$229",
+      "image1": "https://www.danielwellington.com/product-images/dw-classic-black-yor-XnUBbkc_.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/classic_york_rg_40mm-p1MdXr8T.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "video": "gg",
+      "id": 12
+    }
+  ],
+  "brands": [
+    {
+      "brand": "GRAND SEIKO",
+      "logo": "https://content.thewosgroup.com/mayors/brands/a-z/grand-seiko-logo-brands.png",
+      "id": 15
+    }
+  ],
+  "jewerly":[
+    {
+      "model": "CLASSIC YORK",
+      "description": "Classic York is an elegant watch that exudes confidence and style. With a timeless dark brown croc embossed leather strap, a sophisticated black dial and a thin case of just 6mm, this is a watch to love for years to come.",
+      "price": "US$229",
+      "image1": "https://www.danielwellington.com/product-images/dw-classic-black-yor-XnUBbkc_.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/classic_york_rg_40mm-p1MdXr8T.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "video": "gg",
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+.detail-li{
+    color: rgb(110, 110, 110);
+    margin-left: 25px;
+}
+
+.detail-desc{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.514)
+}
+
+.big-container{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:20px
+}
