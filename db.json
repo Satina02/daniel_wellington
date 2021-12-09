@@ -7,7 +7,7 @@
       "image1": "https://www.danielwellington.com/product-images/DW00100448_Iconic_Li-m5oeO0v9.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "image2": "https://www.danielwellington.com/product-images/DW00100458_Iconic_Li-VedjfYok.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "video": "gg",
-      "id": 9
+      "id": 1
     },
     {
       "model": "QUADRO PRESSED MELROSE",
@@ -16,7 +16,7 @@
       "image1": "https://www.danielwellington.com/product-images/dw00100431_quadro_20-t31EMkRl.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "image2": "https://www.danielwellington.com/product-images/_itsjustinesjournal_-eslk2sHL.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "video": "vv",
-      "id": 10
+      "id": 2
     },
     {
       "model": "PETITE EVERGOLD",
@@ -25,7 +25,7 @@
       "image1": "https://www.danielwellington.com/product-images/dw00100350_petite_28-quprxV6E.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "image2": "https://www.danielwellington.com/product-images/DW00100474_Petite_Un-ybb9t5Ql.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "video": "kk",
-      "id": 11
+      "id": 3
     },
     {
       "model": "CLASSIC YORK",
@@ -34,17 +34,21 @@
       "image1": "https://www.danielwellington.com/product-images/dw-classic-black-yor-XnUBbkc_.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "image2": "https://www.danielwellington.com/product-images/classic_york_rg_40mm-p1MdXr8T.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
       "video": "gg",
-      "id": 12
-    }
-  ],
-  "brands": [
+      "id": 4
+    },
     {
-      "brand": "GRAND SEIKO",
-      "logo": "https://content.thewosgroup.com/mayors/brands/a-z/grand-seiko-logo-brands.png",
-      "id": 15
+      "model": "QUADRO PRESSED SHEFFIELD",
+      "description": "The Quadro is our first square dial timepiece. Crafted with polished stainless steel and available in a refined rose gold plating or vibrant silver finish. Choose between the option of a white, black, or green patterned dial and a selection of pressed mesh or pressed leather straps. Elevate your look with a unique edge.",
+      "price": "US$169",
+      "image1": "https://www.danielwellington.com/product-images/dw00100434_quadro_20-ittOxrHc.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image2": "https://www.danielwellington.com/product-images/_tessplk_ugc-skFKrMZz.jpg?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image3": "https://www.danielwellington.com/product-images/dw00100434_quadro_sh-1dGC6R56.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image4": "https://www.danielwellington.com/product-images/dw00100434_quadro_20-uPRb1E0L.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "image5": "https://www.danielwellington.com/product-images/dw00200278_quadro_20-gd1hF1s5.png?ecom2=true&format=jpg&canvas=1:1&width=400&quality=80&bg-color=FFFFFF",
+      "id": 5
     }
   ],
-  "jewerly":[
+  "jewerly": [
     {
       "model": "CLASSIC YORK",
       "description": "Classic York is an elegant watch that exudes confidence and style. With a timeless dark brown croc embossed leather strap, a sophisticated black dial and a thin case of just 6mm, this is a watch to love for years to come.",

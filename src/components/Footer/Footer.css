@@ -34,11 +34,10 @@
     -webkit-box-pack: center;
     justify-content: center;
     position: relative;
-    padding: 1rem 0px;
     width: 100%;
     max-width: 45rem;
     margin: 2rem auto 0px;
-    top: 350px;
+    top: 400px;
     position: absolute;
     left: 300px
 }
@@ -93,5 +92,37 @@
 }
 
 .futer{
+    background-color: white;
+    padding: 3rem 2.5rem 0px !important;
+    max-width: 1140px;
+    margin: 0px auto;
+}
 
+.innder-futer{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.shop-comp{
+    min-width: 20rem;
+    width: 100%;
+    padding-right: 2rem;
+    position: relative;
+}
+
+.innder-futer{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.shop-ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    transition: max-height 0.5s ease 0s;
+    height: auto;
+    max-height: 60rem;
+    overflow: hidden;
 }

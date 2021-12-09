@@ -10,6 +10,8 @@ import ProductsList from "./components/ProductsList/ProductsList";
 import AdminPage from './pages/AdminPage';
 import Error404 from './pages/Error404';
 
+import AboutUs from './components/AboutUs/AboutUs';
+
 
 const Routing = () => {
     let PUBLIC_ROUTES = [
@@ -37,6 +39,11 @@ const Routing = () => {
           link:"/products/:id",
           element:<DetailsProduct />,
           id:4,
+        },
+        {
+          link:"/about-us",
+          element: <AboutUs />,
+          id:5,
         }
       ];
       const ADMIN_ROUTES = [

@@ -1,42 +1,16 @@
-nav {
-    height: 8vh;
-    background-color: #4a4a4a;
-    color: white;
-    display: flex;
-    justify-content: space-between;
-    padding: 0 5vw;
-    align-items: center;
-  }
-  
+
   .sign-btn {
-    background-color: rgb(255, 255, 255);
+    background-color: pink;
     border: none;
-    color: #4a4a4a;
+    color: white;
     height: 40px;
     width: 80px;
     border-radius: 10px;
     font-size: 18px;
+    margin-right: 10px;
+    cursor: pointer;
   } 
-  
-  nav {
-    height: 5vh;
-    background-color: #4a4a4a;
-    color: white;
-    display: flex;
-    justify-content: flex-end;
-    padding: 0 5vw;
-    align-items: center;
-  }
-  
-  .sign-btn {
-    background-color: rgb(255, 255, 255);
-    border: none;
-    color: #4a4a4a;
-    height: 40px;
-    width: 80px;
-    border-radius: 10px;
-    font-size: 18px;
-  }
+
   .header {
     display: flex;
     justify-content: space-between;

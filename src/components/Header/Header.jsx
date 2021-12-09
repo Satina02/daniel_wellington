@@ -26,13 +26,8 @@ const Header = () => {
       id: 2,
     },
     {
-      title: "STORES",
-      link: "*",
-      id: 3,
-    },
-    {
-      title: "NEWS",
-      link: "*",
+      title: "ABOUT US",
+      link: "/about-us",
       id: 4,
     },
     {
@@ -43,23 +38,6 @@ const Header = () => {
   ];
   return (
     <>
-      <nav>
-        <div>
-          {email ? (
-            <Link to="/auth">
-              <button className="sign-btn" onClick={handleLogout}>
-                Logout
-              </button>
-            </Link>
-          ) : null}
-
-          {email ? null : (
-            <Link to="/auth">
-              <button className="sign-btn">Login</button>
-            </Link>
-          )}
-        </div>
-      </nav>
       <div className="header">
         <div></div>
         <Link to="/">
@@ -69,12 +47,28 @@ const Header = () => {
             alt=""
           />
         </Link>
+        <div style={{display:"flex"}}>
+        <div>
+          {email ? (
+            <Link to="/auth">
+              <button className="sign-btn" onClick={handleLogout}>
+                Logout
+              </button>
+            </Link>
+          ) : null}
+          {email ? null : (
+            <Link to="/auth">
+              <button className="sign-btn">Login</button>
+            </Link>
+          )}
+        </div>
         <div>
           <Badge count={5}>
             <ShoppingCartOutlined
               style={{ fontSize: "30px", cursor: "pointer" }}
             />
           </Badge>
+        </div>
         </div>
       </div>
       <div className="navbar">

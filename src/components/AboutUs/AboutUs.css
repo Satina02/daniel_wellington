@@ -1,0 +1,84 @@
+.about{
+    position:absolute;
+    position: absolute;
+    font-size: 45px;
+    margin-top: 154px;
+    margin-left: 700px
+} 
+
+.big-text{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0px 0.7rem;
+    margin: 0px 69px;
+}
+
+.inner-text{
+    display: flex;
+    position: relative;
+    padding: 0px 0.7rem 1.4rem;
+    width: 100%;
+}
+
+.inner-inner{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    align-self: stretch;
+    align-content: center;
+    flex: 1 1 0%;
+    padding: 4rem 3rem;
+    flex-direction: column;
+}
+
+.the-story{
+    font-size: 30px;
+    line-height: 36.4px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.add-div{
+
+}
+
+.p-text{
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: 0.18px;
+    font-family: DWCaslon,serif;
+    font-weight: normal;
+}
+
+.watch-div{
+    display: block;
+    position: relative;
+    padding: 0px 0.7rem 1.4rem;
+    width: 100%;
+}
+
+.something{
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    overflow: auto;
+    display: flex;
+    align-self: stretch;
+    align-content: center;
+    flex: 1 1 0%;
+    padding: 6rem 3rem;
+    justify-content: center;
+}
+
+.nato{
+    width: 100%;
+    display: flex;
+}
+
+.nato-p{
+    font-size: 18px;
+    font-family: DWCaslon,serif;
+}
